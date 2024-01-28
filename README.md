@@ -1,6 +1,6 @@
 <h1>Projeto Alura Plus</h1>
 
-<h3>Esse projeto eu tinha guardado resolvi postar afim de uma recordação boa!</h3>
+<h3>Esse projeto eu tinha guardado resolvi postar afim de uma lembrança boa!</h3>
 
 https://romario-developer.github.io/projeto-site-alura-/
 
